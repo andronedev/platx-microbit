@@ -125,11 +125,11 @@ let tempsv = 0
 let stop = false
 let XV = 0
 basic.showLeds(`
-    . # . # .
-    # # . # #
-    . . # . .
-    # # . # #
-    . # . # .
+    # . . . #
+    . # # # .
+    . # # # .
+    . # # # .
+    # . . . #
     `)
 basic.pause(500)
 basic.showString(" PLATX")
