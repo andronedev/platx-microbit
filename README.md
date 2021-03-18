@@ -28,4 +28,3 @@ Cette image peut prendre quelques minutes pour être actualisée.
 #### Métadonnées (utilisées pour la recherche, le rendu)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("https://makecode.microbit.org/_41KdhH55zECT", "andronedev/platx-microbit");</script>
