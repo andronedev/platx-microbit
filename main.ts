@@ -24,12 +24,7 @@ function ygen () {
     } else {
         l4 = 0
     }
-    if (l0 + (l1 + (l2 + (l3 + l4))) > 4) {
-        basic.pause(20)
-        ygen()
-    }
-    if (l0 + (l1 + (l2 + (l3 + l4))) < 2) {
-        basic.pause(20)
+    if (l0 + (l1 + (l2 + (l3 + l4))) > 4 || l0 + (l1 + (l2 + (l3 + l4))) < 2) {
         ygen()
     }
 }
